@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//HiDev123123.github.io/reactapp/static/css/main.f36792fe.css",
+    "main.js": "//HiDev123123.github.io/reactapp/static/js/main.9f1c490b.js",
+    "static/js/787.17e28425.chunk.js": "//HiDev123123.github.io/reactapp/static/js/787.17e28425.chunk.js",
+    "static/media/logo.svg": "//HiDev123123.github.io/reactapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "//HiDev123123.github.io/reactapp/index.html",
+    "main.f36792fe.css.map": "//HiDev123123.github.io/reactapp/static/css/main.f36792fe.css.map",
+    "main.9f1c490b.js.map": "//HiDev123123.github.io/reactapp/static/js/main.9f1c490b.js.map",
+    "787.17e28425.chunk.js.map": "//HiDev123123.github.io/reactapp/static/js/787.17e28425.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f36792fe.css",
+    "static/js/main.9f1c490b.js"
+  ]
+}
